@@ -1,0 +1,9 @@
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/multithreadserver/impl/ImdbStreamProcessor.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/imdbadapter/ImdbAdapter.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/multithreadserver/ImdbStreamProcessorFactory.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/multithreadserver/ImdbStreamProcessor.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/global/entities/Rating.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/global/entities/Movie.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/MultiThreadTCPServer.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/imdbadapter/impl/ImdbHttpAdapter.java
+/home/gmsdev/Desktop/imdbconsumer/src/main/java/com/github/gmsdeveloper04/imdbconsumer/dependencyinjection/DependencyInjectionModule.java

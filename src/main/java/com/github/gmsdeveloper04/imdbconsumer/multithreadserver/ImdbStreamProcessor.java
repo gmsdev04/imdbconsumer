@@ -1,12 +1,13 @@
 package com.github.gmsdeveloper04.imdbconsumer.multithreadserver;
 
+import java.io.Closeable;
 import java.net.Socket;
 
-public abstract class MultiThreadServer implements Runnable{
+public abstract class ImdbStreamProcessor implements Runnable, Closeable{
 	
 	protected Socket socket;
 	
-	public MultiThreadServer( Socket socket) {
+	public ImdbStreamProcessor( Socket socket) {
 		this.socket = socket;
 	}
 	
